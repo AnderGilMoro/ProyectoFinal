@@ -65,7 +65,7 @@ La aplicación ha sido desarrollada únicamente por mí. Por lo que todas las ta
 A continuación se muestran algunas pruebas de ejecución:
 
 **Muestra de la escena:**  
-![escena](img/captura.jpeg)
+![escena](img/captura.jpg)
 
 **Muestra del movimiento en VR y el reconocimiento de voz:**  
 ![ReconocimientoVoz](img/1.gif)
